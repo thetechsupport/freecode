@@ -1,0 +1,15 @@
+label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .inpdddut[type="file"] {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: #38d39f;
+    border-radius: 5px;
+    width: 100%;
+    cursor: pointer;
+  }

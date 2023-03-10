@@ -1,0 +1,26 @@
+
+       <div class="col-lg-4 col-sm-4">
+                              <div class="box_main">
+                                 <h4 class="shirt_text">Upload your work</h4>
+                                 <p class="price_text">Price  <span style="color: #262626;">$ Free</span></p>
+                                 <div class="tshirt_img"><img src="images/upload-img.png"></div>
+                                 <div class="btn_main">
+                                    <div class="buy_bt"><a href="upload-from/index.html" target="_blank">Upload</a></div>
+                                    <div class="seemore_bt"><a href="#">tech support</a></div>
+                                 </div>
+                              </div>
+                           </div>
+
+
+                           ads-------------------
+                             <div class="col-lg-4 col-sm-4">
+                              <div class="box_main">
+                                 <h4 class="shirt_text">Crucial BX500 240GB ssd</h4>
+                                 <p class="price_text">-  <span style="color: #262626;">ad by ts</span></p>
+                                 <div class="tshirt_img"><img src="images/ssd1.png"></div>
+                                 <div class="btn_main">
+                                    <div class="buy_bt"><a href="https://amzn.to/3J7mIln" target="_blank">Buy now</a></div>
+                                    <div class="seemore_bt"><a href="#">Tech Support</a></div>
+                                 </div>
+                              </div>
+                           </div>
